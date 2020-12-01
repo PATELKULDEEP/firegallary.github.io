@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firegallary.github.io/static/css/main.36c67dfe.chunk.css",
+    "main.js": "/firegallary.github.io/static/js/main.07b0e1e2.chunk.js",
+    "main.js.map": "/firegallary.github.io/static/js/main.07b0e1e2.chunk.js.map",
+    "runtime-main.js": "/firegallary.github.io/static/js/runtime-main.d818165a.js",
+    "runtime-main.js.map": "/firegallary.github.io/static/js/runtime-main.d818165a.js.map",
+    "static/js/2.9c06df68.chunk.js": "/firegallary.github.io/static/js/2.9c06df68.chunk.js",
+    "static/js/2.9c06df68.chunk.js.map": "/firegallary.github.io/static/js/2.9c06df68.chunk.js.map",
+    "static/js/3.3c381297.chunk.js": "/firegallary.github.io/static/js/3.3c381297.chunk.js",
+    "static/js/3.3c381297.chunk.js.map": "/firegallary.github.io/static/js/3.3c381297.chunk.js.map",
+    "index.html": "/firegallary.github.io/index.html",
+    "static/css/main.36c67dfe.chunk.css.map": "/firegallary.github.io/static/css/main.36c67dfe.chunk.css.map",
+    "static/js/2.9c06df68.chunk.js.LICENSE.txt": "/firegallary.github.io/static/js/2.9c06df68.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/firegallary.github.io/static/media/plus.dd924780.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d818165a.js",
+    "static/js/2.9c06df68.chunk.js",
+    "static/css/main.36c67dfe.chunk.css",
+    "static/js/main.07b0e1e2.chunk.js"
+  ]
+}
